@@ -2,8 +2,6 @@
 
 ### DecodeLabs Industrial Training Kit | 
 
-Batch: 2026 
-
 ---
 
 ## Project Overview
